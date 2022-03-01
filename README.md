@@ -1,4 +1,4 @@
-<img src="jeje.png" width="300">
+<img src="jeje.png" width="500">
 
 2500
 
