@@ -1,4 +1,4 @@
-<img src="panorama.jpeg" width="2500px">
+<img src="jeje.png" width="2500px">
 
 ## Hi there! my name is Aarón (RAFALAMAO)
 
