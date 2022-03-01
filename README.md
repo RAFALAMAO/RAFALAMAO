@@ -4,7 +4,7 @@
 
 ### I’m just a Mechatronics Engineer at [UPIITA](https://www.upiita.ipn.mx/) from México, and I love music, lol.
 
-### Check me out on [my website](http://kanishk598.github.io/)
+### Check me out on [my website](https://rafalamao.github.io/)
 
 ### Or reach me via:
 
