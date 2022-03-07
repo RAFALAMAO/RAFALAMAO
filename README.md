@@ -8,6 +8,8 @@
 
 ### Check me out on [my website](https://rafalamao.github.io/)
 
+### Check my guitar tabs on [UltimateGuitar](https://www.ultimate-guitar.com/u/perroconpelos)
+
 ### Or reach me via:
 
 [![YouTube](https://img.shields.io/badge/YouTube-D14836?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCURD3N9TC9OJn0BWRf2J8oA)
