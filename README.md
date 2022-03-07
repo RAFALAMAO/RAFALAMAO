@@ -8,7 +8,7 @@
 
 ### Check me out on [my website](https://rafalamao.github.io/)
 
-### Check my guitar tabs on [UltimateGuitar](https://www.ultimate-guitar.com/u/perroconpelos)
+### Check my guitar tabs on [UltimateGuitar profile](https://www.ultimate-guitar.com/u/perroconpelos) or [UltimateGuitar tabs](https://www.ultimate-guitar.com/contribution/11629152-perroconpelos/tabs) 
 
 ### Or reach me via:
 
