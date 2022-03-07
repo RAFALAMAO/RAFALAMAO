@@ -1,6 +1,6 @@
 <img src="portadita.JPG" width="2500">
 
-2500
+
 
 ## Hi there! my name is Aarón (RAFALAMAO)
 
