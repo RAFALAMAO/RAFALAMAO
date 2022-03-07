@@ -4,7 +4,7 @@
 
 ## Hi there! my name is Aarón (RAFALAMAO)
 
-### I’m just a Mechatronics Engineer at [UPIITA](https://www.upiita.ipn.mx/) from México, and I love music, lol.
+### I’m just a Mechatronic Engineer at [UPIITA](https://www.upiita.ipn.mx/) from México, and I love music \m/.
 
 ### Check me out on [my website](https://rafalamao.github.io/)
 
