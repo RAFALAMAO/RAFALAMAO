@@ -1,4 +1,4 @@
-<img src="portadita.JPG" width="8000">
+<img src="portadita.JPG" width="3000">
 
 
 
