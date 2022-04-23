@@ -6,7 +6,7 @@
 
 #### I’m just a Mechatronic Engineer at [UPIITA](https://www.upiita.ipn.mx/) from México, and I love music \m/.
 
-#### Check me out on [my portfolio](https://my-portfolio-rafalamao.vercel.app) or take a look on my guitar tabs on Ultimate Guitar [profile](https://www.ultimate-guitar.com/u/perroconpelos) or [tabs](https://www.ultimate-guitar.com/contribution/11629152-perroconpelos/tabs).
+#### Check me out on my [portfolio](https://my-portfolio-rafalamao.vercel.app), [blog](https://rafalamao.github.io/) or take a look on my guitar tabs on Ultimate Guitar [profile](https://www.ultimate-guitar.com/u/perroconpelos) or [tabs](https://www.ultimate-guitar.com/contribution/11629152-perroconpelos/tabs).
 
 #### Also reach me via:
 
