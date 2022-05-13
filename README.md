@@ -4,10 +4,6 @@
 
 I’m a [UPIITA](https://www.upiita.ipn.mx/) Mechatronic engineer from Mexico, I love development, music and graphical design.
 
-I started with C / C ++, then Matlab, LabView, JavaScript, Python, C #, Java. Currently I am programming mainly in React technology.
-
-I can work stationary, hybrid and remotely (preferably), both full-time and part-time.
-
 *Check me out on my [portfolio](https://my-portfolio-rafalamao.vercel.app), [blog](https://rafalamao.github.io/) or take a look on my guitar tabs on Ultimate Guitar [profile](https://www.ultimate-guitar.com/u/perroconpelos) or [tabs](https://www.ultimate-guitar.com/contribution/11629152-perroconpelos/tabs).*
 
 #### Also reach me via:
