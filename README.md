@@ -2,9 +2,11 @@
 
 ## Hi there! my name is Aarón (RAFALAMAO)
 
-I’m a [UPIITA](https://www.upiita.ipn.mx/) Mechatronic engineer from Mexico, I love development, music and graphical design.
+I’m an [UPIITA](https://www.upiita.ipn.mx/) Mechatronic engineer from Mexico, I love development, music and graphic design.
 
-*Check me out on my [portfolio](https://my-portfolio-rafalamao.vercel.app), [blog](https://rafalamao.github.io/) or take a look on my guitar tabs on Ultimate Guitar [profile](https://www.ultimate-guitar.com/u/perroconpelos) or [tabs](https://www.ultimate-guitar.com/contribution/11629152-perroconpelos/tabs).*
+I started with C / C ++, then Matlab, LabView, Python and JavaScript. Currently I am programming mainly in React and NodeJS technology.
+
+Check me out on my [portfolio](https://my-portfolio-rafalamao.vercel.app), [blog](https://rafalamao.github.io/) or take a look on my guitar tabs on Ultimate Guitar [profile](https://www.ultimate-guitar.com/u/RAFALAMAO) or [tabs](https://www.ultimate-guitar.com/contribution/72518755-RAFALAMAO/tabs).
 
 #### Also reach me via:
 
@@ -13,5 +15,4 @@ I’m a [UPIITA](https://www.upiita.ipn.mx/) Mechatronic engineer from Mexico, I
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aar%C3%B3n-ju%C3%A1rez-aa42361ab/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rafalamao96/)
 [![My Blog](https://img.shields.io/badge/My_Blog-63697d?style=for-the-badge&logo=Blogger)](https://rafalamao.github.io/)
-[![UG](https://img.shields.io/badge/My_Guitar_Tabs-030430?style=for-the-badge&logo=CodeIgniter)](https://www.ultimate-guitar.com/contribution/11629152-perroconpelos/tabs)
-
+[![UG](https://img.shields.io/badge/My_Guitar_Tabs-030430?style=for-the-badge&logo=CodeIgniter)](https://www.ultimate-guitar.com/contribution/72518755-RAFALAMAO/tabs)
