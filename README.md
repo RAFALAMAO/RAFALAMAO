@@ -2,7 +2,7 @@
 
 ## Hi there! my name is Aarón (RAFALAMAO)
 
-I’m an [UPIITA](https://www.upiita.ipn.mx/) Mechatronic engineer from Mexico, I love development, music and graphic design.
+I’m an [UPIITA](https://www.upiita.ipn.mx/) Mechatronics engineer from Mexico, I love development, music and graphic design.
 
 I started with C / C ++, then Matlab, LabView, Python and JavaScript. Currently I am programming mainly in React and NodeJS technology.
 
